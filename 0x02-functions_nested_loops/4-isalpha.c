@@ -2,9 +2,7 @@
 
 /**
  * _isalpha - Entry point
- *
- * @c - check character
- *
+ * @c: check character
  * Return: 1 is a lower case or uppercase or 0
  */
 
