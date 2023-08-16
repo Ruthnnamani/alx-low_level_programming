@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-
+#include <string.h>
 /**
  * struct dog -  a new type struct dog
  * @name: of dog type
